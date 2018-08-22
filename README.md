@@ -1,4 +1,4 @@
-# 4x4x4xLed-Cube
+# 4x4x4 Led-Cube
 
 ## Connections:-
 Columns
@@ -29,4 +29,10 @@ b-A1
 c-A2
 d-A3
 
-Diagram:-
+## Diagram:-
+![ckt 1](https://user-images.githubusercontent.com/29785503/44454910-60e85700-a61a-11e8-96bf-aa0d1dd77088.jpg)
+
+## [Working Video](https://youtu.be/zOa74DJwaLM)
+
+## Project Pics:-  
+
